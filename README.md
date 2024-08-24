@@ -140,9 +140,3 @@ Approximately 45 minutes.
 2. Test placing orders and view the order history.
 
    Ensure the order details are captured and stored in the database.
-
-## Conclusion
-
-Congratulations on completing the activity! You have successfully upgraded the Mom & Pop Café website to support online orders and resolved any issues with the deployment script.
-
-To end the lab, click **End Lab** at the top of the page and confirm.
